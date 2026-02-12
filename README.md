@@ -162,6 +162,7 @@ _SAE J2534 Standard_
 * [j2534-tcp](https://github.com/brandonros/j2534-tcp) - Virtual J2534 driver over TCP/IP.
 * [SharpWrap2534](https://github.com/MEAT-Inc/SharpWrap2534) - The Ultimate J2534 Wrapper Suite.
 * [gocanflasher](https://github.com/roffe/gocanflasher) - Trionic 5/7/8 CANbus flasher with J2534 support.
+* [BlackFlag ECU](https://github.com/bad-antics/blackflag-ecu) - GTK4 automotive diagnostics toolkit with CAN bus analysis, J2534 passthru support, OBD-II scanning, and ECU flash capabilities. Built with Python and libadwaita.
 
 
 ## Utils
